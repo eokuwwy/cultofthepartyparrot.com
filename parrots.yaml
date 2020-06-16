@@ -54,11 +54,11 @@
 - gif: fiestaparrot.gif
   name: Fiesta Parrot
 - gif: pizzaparrot.gif
-  name: ! "\U0001F355 Parrot"
+  name: !!str "\U0001F355 Parrot"
 - gif: hamburgerparrot.gif
-  name: ! "\U0001F354 Parrot"
+  name: !!str "\U0001F354 Parrot"
 - gif: bananaparrot.gif
-  name: ! "\U0001F34C Parrot"
+  name: !!str "\U0001F34C Parrot"
 - gif: chillparrot.gif
   name: Chill Parrot
 - gif: explodyparrot.gif
@@ -363,7 +363,7 @@
   name: async Parrot
 - hd: hd/meldparrot.gif
   name: Meld Parrot
-- gif: docparrot.gif
+- hd: hd/docparrot.gif
   name: Doc Parrot
   tip: Or any medical professional really...
 - hd: hd/rythmicalparrot.gif
@@ -375,3 +375,61 @@
 - hd: hd/covid19parrot.gif
   name: COVID-19 Parrot
   tip: Parrot takes a break from partying to socially distance
+- gif: metalparrot.gif
+  name: Metal Parrot
+- hd: hd/wineparrot.gif
+  name: Wine Parrot
+  tip: Parrot and a Pinot
+- hd: hd/hypnoparrot.gif
+  name: Hypno Parrot
+  tip: You are getting sleepy!
+- hd: hd/hypnoparrotdark.gif
+  name: Hypno Parrot Dark
+- hd: hd/hypnoparrotlight.gif
+  name: Hypno Parrot Light
+- hd: hd/everythingsfineparrot.gif
+  name: Everything Is Fine Parrot
+  tip: It's really not
+- hd: hd/headbangingparrot.gif
+  name: Head Banging Parrot
+- hd: hd/tpparrot.gif
+  name: TP Parrot
+  tip: Don't Hoard, ppl
+- hd: hd/stayhomeparrot.gif
+  name: Stay Home Parrot
+  tip: He's in there
+- hd: hd/stayhomeparrotcloser.gif
+  name: Stay Home Parrot Closer
+  tip: See I told you
+- hd: hd/stayhomeparrotwindow.gif
+  name: Stay Home Parrot Window
+  tip: Get off my lawn
+- hd: hd/staytfhomeparrot.gif
+  name: Stay TF Home Parrot
+  tip: Can I help you?
+- hd: hd/rubyparrot.gif
+  name: Ruby Parrot
+  tip: This Parrot surely loves gems
+- hd: hd/moonparrot.gif
+  name: Moon Parrot
+  tip: Parrot and the moon
+- hd: hd/hmmparrot.gif
+  name: Hmm Parrot
+  tip: Hmmmmm...
+- hd: hd/nodeparrot.gif
+  name: Node Parrot
+  tip: party.on("end",e => {die()})
+- hd: hd/hanamiparrot.gif
+  name: Hanami Parrot
+  tip: Very beautiful
+- gif: revertitparrot.gif
+  name: Revert It Parrot
+- hd: hd/daftpunkparrot.gif
+  name: Daft Punk Parrot
+  tip: Harder Better Faster Stronger
+- hd: hd/zoukparrot.gif
+  name: Zouk Parrot
+  tip: Parrot turned tropical
+- hd: hd/glimpseparrot.gif
+  name: Glimpse Parrot
+  tip: A glimpse from the wall
