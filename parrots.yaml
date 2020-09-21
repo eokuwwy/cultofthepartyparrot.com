@@ -433,6 +433,9 @@
 - hd: hd/glimpseparrot.gif
   name: Glimpse Parrot
   tip: A glimpse from the wall
+- hd: hd/dailyparrot.gif
+  name: Daily Parrot
+  tip: A parrot to announce daily meetings
 - hd: hd/quadparrot.gif
   name: Quad Parrot
 - gif: dabparrot.gif
@@ -449,3 +452,6 @@
   name: Cake Parrot
 - gif: unicornparrot.gif
   name: Unicorn Parrot
+- hd: hd/thefastestparrot.gif
+  name: The Fastest Parrot
+  tip: Really fast
